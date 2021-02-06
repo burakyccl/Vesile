@@ -8,4 +8,4 @@ Vesile is an online database of information related to films and tv series. Work
 
  ---------------------------------------
 
-![Screen shot](https://raw.githubusercontent.com/burakyccl/RandomWordScramble/main/gif.gif)
+![Screen shot]()
